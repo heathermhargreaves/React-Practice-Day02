@@ -51,7 +51,7 @@
 ###Small JS Context Review
 - Function.prototype.bind
 	- Context
-	- Currying
+	- Partial application
 
 ###Asynchronous Data
 - jQuery?
